@@ -46,7 +46,7 @@ LEX is designed to assist with:
 
 The application source code is maintained in a private repository.
 
-This public repository is a project showcase and does not contain the application's source code or secret credentials.
+This public repository is a project showcase and does not contain the application's source code.
 
 ---
 
