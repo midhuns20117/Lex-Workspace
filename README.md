@@ -6,7 +6,7 @@ LEX AI is an intelligent legal workspace designed to help organize cases, docume
 
 ## 🚀 Live Demo
 
-### 🌐 [Open LEX AI](nova-ai-silk-zeta.vercel.app)
+### 🌐 [Open LEX AI](https://nova-ai-silk-zeta.vercel.app)
 
 ## ✨ Features
 
@@ -52,4 +52,4 @@ This public repository is a project showcase and does not contain the applicatio
 
 ### 🌐 Try LEX AI
 
-**[Launch LEX AI →](nova-ai-silk-zeta.vercel.app)**
+**[Launch LEX AI →](https://nova-ai-silk-zeta.vercel.app)**
